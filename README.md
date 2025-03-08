@@ -21,7 +21,8 @@ Untuk menginstal semua library yang diperlukan, jalankan perintah berikut di ter
 ### Streamlit Dashboard
 
 Untuk menjalankan dashboard streamlit di lokal dapat menggunakan kode berikut di terminal:
-
+`cd submission`
+`cd dashboard`
 `streamlit run dashboard.py`
 
 

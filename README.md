@@ -1,4 +1,4 @@
-# Proyek Analisis Data: Kualitas Udara
+# Proyek Analisis Data: Kualitas Udara di Distrik Aotizhongxin Beijing
 
 Proyek ini bertujuan untuk menganalisis data kualitas udara menggunakan berbagai teknik visualisasi dan analisis data. Kami menggunakan beberapa library Python untuk memudahkan proses analisis dan visualisasi.
 

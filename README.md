@@ -15,5 +15,14 @@ Proyek ini menggunakan library berikut:
 
 Untuk menginstal semua library yang diperlukan, jalankan perintah berikut di terminal:
 
-```bash
-pip install pandas matplotlib seaborn streamlit
+
+`pip install pandas matplotlib seaborn streamlit`
+
+### Streamlit Dashboard
+
+Untuk menjalankan dashboard streamlit di lokal dapat menggunakan kode berikut di terminal:
+
+`streamlit run dashboard.py`
+
+
+

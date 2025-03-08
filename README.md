@@ -19,10 +19,8 @@ Untuk menginstal semua library yang diperlukan, jalankan perintah berikut di ter
 `pip install pandas matplotlib seaborn streamlit`
 
 ### Streamlit Dashboard
-
+Sebelum menjalankan dashboard masuk terlebih dahulu ke dashboard dengan menggunakan kode `cd` di terminal
 Untuk menjalankan dashboard streamlit di lokal dapat menggunakan kode berikut di terminal:
-`cd submission`
-`cd dashboard`
 `streamlit run dashboard.py`
 
 
